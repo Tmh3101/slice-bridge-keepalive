@@ -1,0 +1,9 @@
+{
+  "name": "slice-bridge-keepalive-ping",
+  "version": "1.0.0",
+  "description": "Small ping service to keep the Slice bridge-relayer awake on Render Free",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
